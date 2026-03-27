@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "project-2js",
+			"path": "."
+		},
+		{
+			"name": "fonts",
+			"path": "../fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project-2js"
+	}
+}
